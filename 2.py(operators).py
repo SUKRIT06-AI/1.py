@@ -1,0 +1,16 @@
+a=15
+b=13
+c=16
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**2)
+d=1/17
+print(a+d)
+print(a//d)
+print((a%d)//d)
+print((a-b)/d)
+print((a//b)**2)
